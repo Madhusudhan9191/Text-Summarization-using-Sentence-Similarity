@@ -10,8 +10,8 @@ A Python-based text summarizer that uses sentence similarity and PageRank to ran
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/text_summarizer.git
-   cd text_summarizer
+  git clone https://github.com/Madhusudhan9191/Text-Summarization-using-Sentence-Similarity.git
+  cd Text-Summarization-using-Sentence-Similarity
 
 Indtall required dependices
 
